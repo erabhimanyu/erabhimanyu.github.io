@@ -122,10 +122,6 @@
                     <a href="/">Home</a>
                 </li>
 				
-                <li>
-                    <a href="/projects/project1/">Project 1</a>
-                </li>
-                
                 
                 <li>
                     <a href="/about/">About</a>
@@ -133,14 +129,6 @@
                 
                 <li>
                     <a href="/search/">Search</a>
-                </li>
-                
-                <li>
-                    <a href="/members/">Members</a>
-                </li>
-                
-                <li>
-                    <a href="/mentions/">Community Impact</a>
                 </li>
                 
             </ul>
