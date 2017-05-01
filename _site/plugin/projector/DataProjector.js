@@ -173,67 +173,6 @@
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			
 
-<div class="post-preview">
-    <a href="/2016/05/02/New-Surface-Visualization/">
-        <h2 class="post-title">            New Surface Visualization
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Some Short Description of the Visualization
-        </h3>
-        
-    </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by Ahmet Cecen on May 2, 2016</p>
-	<div class="notepad-index-post-tags" style="">
-		<a href="/search/index.html#plysurface" title="Other posts from the Plysurface tag">Plysurface</a>&nbsp;<a href="/search/index.html#visualization" title="Other posts from the Visualization tag">Visualization</a>&nbsp;<a href="/search/index.html#template" title="Other posts from the Template tag">Template</a>
-	</div>
-</div>
-<hr>
-
-
-
-<div class="post-preview">
-    <a href="/2016/05/02/New-Projector/">
-        <h2 class="post-title">            New Projector
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Some Short Description of Projector
-        </h3>
-        
-    </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by Ahmet Cecen on May 2, 2016</p>
-	<div class="notepad-index-post-tags" style="">
-		<a href="/search/index.html#projector" title="Other posts from the Projector tag">Projector</a>&nbsp;<a href="/search/index.html#visualization" title="Other posts from the Visualization tag">Visualization</a>&nbsp;<a href="/search/index.html#template" title="Other posts from the Template tag">Template</a>
-	</div>
-</div>
-<hr>
-
-
-
-<div class="post-preview">
-    <a href="/2016/05/02/New-Presentation/">
-        <h2 class="post-title">            New Presentation
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Some Short Description of Presentation
-        </h3>
-        
-    </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by Ahmet Cecen on May 2, 2016</p>
-	<div class="notepad-index-post-tags" style="">
-		<a href="/search/index.html#presentation" title="Other posts from the Presentation tag">Presentation</a>&nbsp;<a href="/search/index.html#template" title="Other posts from the Template tag">Template</a>
-	</div>
-</div>
-<hr>
-
-
-
-
-
-
-
 
 		</div>
 	</div>
